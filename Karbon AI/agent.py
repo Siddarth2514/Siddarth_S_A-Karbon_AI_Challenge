@@ -12,7 +12,7 @@ from langgraph.graph import StateGraph, END
 from groq import Groq
 
 # 🔑 Groq client
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 client = Groq(api_key=GROQ_API_KEY)
 
 
@@ -222,3 +222,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
