@@ -33,6 +33,7 @@ carbon-ai-agent/
 │── custom_parsers/ # Auto-generated bank-specific parsers
 │── tests/ # Pytest test cases for validation
 └── data/ # Sample bank statements
+|-.env #enter your groq api here 
 
 
 **🧭 Agent Architecture**
